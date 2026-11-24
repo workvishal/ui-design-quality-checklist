@@ -24,14 +24,15 @@ interface harder to scan?
 Use separators to distinguish meaningful metadata or navigation items.
 Do not insert decorative dots between ordinary words or labels.
 
-## 3. Too many eyebrow labels
+## 3. Eyebrow labels
 
-**Question:** Does this small label add context that the heading cannot
-provide?
+**Question:** What would a real heading say here instead?
 
-Use an eyebrow for useful context such as a category, section, or
-status. Avoid stacking labels above every heading. Repetition weakens
-hierarchy.
+Do not use eyebrows: small labels, numbers, or tracked capitals placed
+above a heading. They read as decoration and weaken hierarchy. Put the
+context into the heading itself. If genuine metadata such as a status or
+category is needed, show it as a pill beside the content, not stacked
+above the title.
 
 ## 4. Cream or off-white backgrounds everywhere
 
